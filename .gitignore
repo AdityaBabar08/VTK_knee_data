@@ -1,2 +1,7 @@
 venv
 .vscode
+
+Input_data
+Output_model
+
+__pycache__
