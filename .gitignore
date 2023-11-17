@@ -3,5 +3,6 @@ venv
 
 Input_data
 Output_model
+bones.stl
 
 __pycache__
